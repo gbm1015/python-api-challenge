@@ -19,10 +19,10 @@ Leveraged Python requests, APIs, and JSON traversals to answer questions related
       -	Several .png plots and 2 .jpg maps
     * I pushed these changes back to GitHub at the conclusion of the analysis. 
 
-### Files including data used for analysis, and the solution output text files
+### URLs
 
-* PyBank/Resources/budget_data.csv - Ran Python code on this PyBank assignment data to generate the final solution output.  
-* PyBank/Analysis/financial_analysis.txt is the final solution output for PyBank assignment.
+* WeatherPy assignment: "http://api.openweathermap.org/data/2.5/weather?units=metric&appid="  
+* VacationPY assignment: 
 
 * PyPoll/Resources/election_data.csv - Ran Python code on this PyPoll assignment data to generate the final solution output.  
 * PyBank/Analysis/election_analysis.txt is the final solution output for PyPoll assignment.
